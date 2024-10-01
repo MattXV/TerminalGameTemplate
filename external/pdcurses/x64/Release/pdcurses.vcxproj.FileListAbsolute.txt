@@ -1,0 +1,1 @@
+C:\Users\Mattia\Downloads\pdcurses-master\pdcurses-master\x64\Release\pdcurses.lib
